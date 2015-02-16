@@ -1,0 +1,31 @@
+{
+  "name": "generator-node-babel",
+  "version": "0.0.1",
+  "description": "Build a new node project use babel and karma",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "qiu8310/generator-node-babel",
+  "author": {
+    "name": "Zhonglei Qiu",
+    "email": "zhongleiqiu@gmail.com",
+    "url": "https://github.com/qiu8310"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator","babel","karma","node"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.18.0",
+    "yo-helper": "0.0.1"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  }
+}
